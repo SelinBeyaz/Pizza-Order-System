@@ -1,0 +1,18 @@
+       * HOSGELDINIZ *
+*Lutfen Bir Pizza Tabani Seciniz:
+
+ -Klasik Pizza
+ -Margarita Pizza
+ -Turk Pizza
+ -Sade Pizza
+
+*Lutfen Bir Tane Sos Seciniz:
+
+ -Zeytin
+ -Mantarlar
+ -Keci Peyniri
+ -Et
+ -Sogan
+ -Misir
+
+*Tesekkur Ederiz
