@@ -205,7 +205,7 @@ match pizza_tabani,sos:
 
     case "Sade Pizza" , "Keci Peyniri" :
         print("SEPETİNİZ: Sade Taban + Keci Peyniri")
-        total = sadepizza.get_cost(sadepizza.cost)+kacipeyniri.get_cost(kacipeyniri.cost)
+        total = sadepizza.get_cost(sadepizza.cost)+kecipeyniri.get_cost(kecipeyniri.cost)
         print(f"TOPLAM TUTAR : {total} TL")
 
 
